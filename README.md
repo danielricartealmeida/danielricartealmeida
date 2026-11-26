@@ -2,7 +2,8 @@
 
 ## 💻 Sobre mim
 
-- Sou estudante de **Análise e Desenvolvimento de Sistemas, Redes de Computadores e Matemática**, interessado em desenvolvimento de software, automação e redes de computadores. Gosto de entender como as coisas funcionam e criar soluções para simplificar tarefas do dia a dia.
+- 📚 Sou estudante de Análise e Desenvolvimento de Sistemas, Redes de Computadores e Matemática, interessado em desenvolvimento de software, automação e redes de computadores.
+- ⚙️ Gosto de entender como as coisas funcionam e criar fluxos e soluções para simplificar tarefas do dia a dia, que mais tarde viram códigos.
 - 🛠️ Atualmente trabalho com tecnologia, infraestrutura e melhoria de processos na empresa da minha família.
 - 📚 Estou aprofundando meus conhecimentos em C# e .NET com projetos práticos.
 - 🌐 Também tenho interesse em redes de computadores e segurança da informação.
