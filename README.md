@@ -39,7 +39,6 @@
 ## ⭐ Informações sobre minha conta GitHub
 
 <p>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielricartealmeida&theme=dracula&langs_count=6" alt="Linguagens mais utilizadas" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielricartealmeida&theme=dracula&layout=compact&langs_count=8" alt="Resumo das linguagens" />
 </p>
 
