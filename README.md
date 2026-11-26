@@ -10,6 +10,14 @@
 - 🎵 Além da tecnologia, gosto de música, instrumentos e edição de vídeos.
 - 🧭 Estou explorando diferentes áreas da TI para descobrir qual caminho seguir.
 
+## 📚 Aprendendo atualmente
+
+- Desenvolvimento de aplicações com C# e .NET.
+- Versionamento de projetos com Git e GitHub.
+- Redes de computadores.
+- Estudo de teoremas e tópicos avançados de matemática.
+- Um pouco de HTML, CSS e JavaScript para me divertir com frontend.
+
 ## 🚀 Minhas skills
 
 <p>
@@ -28,13 +36,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Visual Studio Code" title="Visual Studio Code" width="40" height="40" />
 </p>
 
-## 📚 Aprendendo atualmente
+## ⭐ Informações sobre minha conta GitHub
 
-- Desenvolvimento de aplicações com C# e .NET.
-- Versionamento de projetos com Git e GitHub.
-- Redes de computadores.
-- Estudo de teoremas e tópicos avançados de matemática.
-- Um pouco de HTML, CSS e JavaScript para me divertir com frontend.
+<p>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielricartealmeida&theme=dracula&langs_count=6" alt="Linguagens mais utilizadas" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielricartealmeida&theme=dracula&layout=compact&langs_count=8" alt="Resumo das linguagens" />
+</p>
+
+[![Overview](https://img.shields.io/badge/Overview-Daniel-fff0c2?style=for-the-badge&logo=github&logoColor=white&labelColor=555)](https://github.com/danielricartealmeida)
 
 ---
 
